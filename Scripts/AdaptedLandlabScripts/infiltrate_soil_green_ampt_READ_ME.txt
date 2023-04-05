@@ -1,0 +1,1 @@
+Replace original landlab script with this name (folder location\Landlab\components\soil_moisture\infiltrate_soil_green_ampt.py) with this script to use a maximal time step of 1 minute
